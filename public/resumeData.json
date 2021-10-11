@@ -15,17 +15,13 @@
       "zip": "534281"
     },
     "website": "#",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "https://drive.google.com/file/d/1vPHeuYnO_m4pO8wJSvsoMl6QKFopwh5f/view",
     "social": [
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
+      
      
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/ganesh-kollati-2b238818b",
         "className": "fa fa-linkedin"
       },
       {
@@ -35,7 +31,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/Ganeshkollatii98/",
         "className": "fa fa-github"
       }
     ]
@@ -104,14 +100,14 @@
       {
         "title": "Google Maps Store Locator",
         "category": "",
-        "image": "",
+        "image": "Google_Maps_Store_Locator.png",
         "url": "https://github.com/Ganeshkollatii98/Google-Map-Store-Locator"
       },
       {
         "title": "Twitter Clone",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "Twitter_Clone.png",
+        "url": "https://github.com/Ganeshkollatii98/Twitter-Clone"
       },
       {
         "title": "LinkedIn Clone (React JS)",
