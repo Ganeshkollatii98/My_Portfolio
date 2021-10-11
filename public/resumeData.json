@@ -102,13 +102,13 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Google Maps Store Locator",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "",
+        "url": "https://github.com/Ganeshkollatii98/Google-Map-Store-Locator"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Twitter Clone",
         "category": "",
         "image": "gmail.jpg",
         "url": "https://youtu.be/b7nrXjS6Dqs"
