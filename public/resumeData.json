@@ -1,20 +1,20 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Ganesh Kollati",
+    "occupation": "Web Developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Ganesh!. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me to be a part of the fam!",
+    "email": "ganeshkollatii@gmail.com",
+    "phone": "+91 7989733863",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Mogaltur",
+      "city": "Bhimavaram",
+      "state": "Andhra Pradesh",
+      "zip": "534281"
     },
-    "website": "https://www.papareact.com/course",
+    "website": "#",
     "resumedownload": "http://papareact.com",
     "social": [
       {
@@ -22,11 +22,7 @@
         "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
         "className": "fa fa-youtube"
       },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
+     
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/saajansangha",
@@ -48,41 +44,59 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "Itm University Gwalior",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "graduated": "July 2020",
+        "description": "Graduated with Good Score"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Infosys",
+        "title": "System Engineer",
+        "years": "Nov 2020 - Present",
+        "description": "I have been trained "
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "50%"
       },
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "Javascript",
+        "level": "70%"
       },
       {
         "name": "Git",
         "level": "70%"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
+        "name": "Css",
+        "level": "80%"
+      },
+      {
+        "name": "Html",
+        "level": "80%"
+      },
+       {
+        "name": "nodejs",
+        "level": "30%"
+      },
+      {
+        "name": "C++",
+        "level": "70%"
+      },
+       {
+        "name": "Data Structures",
+        "level": "60%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "80%"
       }
+     
+
     ]
   },
   "portfolio": {
@@ -110,12 +124,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "",
+        "user": ""
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "",
+        "user": ""
       }
     ]
   }
